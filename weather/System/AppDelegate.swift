@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  weather
-//
-//  Created by Denis Evdokimov on 6/6/22.
-//
-
 import UIKit
 
 @main
